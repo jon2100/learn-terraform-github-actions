@@ -15,7 +15,7 @@ terraform {
     organization = "ACG-Terrafrom_Course2024"
 
     workspaces {
-      name = "demo-github-actions"
+      name = "demo-github-acctions"
     }
   }
 }
